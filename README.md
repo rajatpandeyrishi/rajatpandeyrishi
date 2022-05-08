@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rajatpandeyrishi
-- 👀 I’m interested in python ful; stack developer
+- 👀 I’m interested in python ful lstack developer
 - 🌱 I’m currently learning & also doing job
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me you can reach me through lindkin
